@@ -1,17 +1,24 @@
-# Getting Started with Create React App
+# Ecommerce <br/>
+Nesta aplicação utilizamos React e a Framer Motion para criar um simples site de animações como estudo.
 
-## Available Scripts
+Linguagem utilizada: <br/><br/>
+• React :heavy_check_mark:
+
+Pacotes de recursos utilizados: <br/><br/>
+• Styled Components :heavy_check_mark:  <br/>
+• Framer :heavy_check_mark: <br/>
+• Framer Motion :heavy_check_mark: <br/>
+• Back To Top :heavy_check_mark: <br/>
+• Google ReCaptcha :heavy_check_mark: <br/>
+• Icons :heavy_check_mark:
+
+
+## Instalações e uso
+
+Instalação
 
 ### `npm install`
 
-Installs the dependencies the project needs to run properly, such as react and styled-components.
-
-In the project directory, you can run:
+Iniciar aplicação
 
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
